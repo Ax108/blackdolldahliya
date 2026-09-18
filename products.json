@@ -1,0 +1,172 @@
+[
+    {
+        "name": "666 Oversized T-Shirt",
+        "category": "Goth/Punk",
+        "price": 1299,
+        "original_price": 2200,
+        "url": "https://blackdolldahlia.com/product/666-oversized-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/back666-600x600.jpg",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/front666-600x600.jpg"
+    },
+    {
+        "name": "666 T-Shirt",
+        "category": "Anime",
+        "price": 1099,
+        "original_price": 1500,
+        "url": "https://blackdolldahlia.com/product/666-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/Tshirt-mockup-new-1-600x600.jpg",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/olive-green-666-1-600x600.jpg"
+    },
+    {
+        "name": "Alchemist Poster",
+        "category": "Art Print/Poster",
+        "price": 499,
+        "original_price": 890,
+        "url": "https://blackdolldahlia.com/product/alchemist-poster/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/alchemist-poster-1-600x600.jpg"
+    },
+    {
+        "name": "Alchemist T-Shirt",
+        "category": "T-shirts",
+        "price": 1299,
+        "original_price": 1599,
+        "url": "https://blackdolldahlia.com/product/alchemist-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/ALCHEMIST-TEE-600x600.png",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/IMG_20221128_125342-300x300.jpg"
+    },
+    {
+        "name": "Bella Dona crop top",
+        "category": "Crop Tops",
+        "price": 649,
+        "url": "https://blackdolldahlia.com/product/bella-dona-crop-top/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/bella-dona-smp-600x600.png",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/bella-dona-black-crop-top-600x600.png"
+    },
+    {
+        "name": "Bleach T-Shirt",
+        "category": "Anime",
+        "price": 1299,
+        "url": "https://blackdolldahlia.com/product/bleach-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2024/02/black-teepng-600x600.png",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2024/02/Tshirt-mockup-new-600x600.png"
+    },
+    {
+        "name": "CAT T-Shirt",
+        "category": "Anime",
+        "price": 980,
+        "original_price": 1199,
+        "url": "https://blackdolldahlia.com/product/cat-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/09/cat-black-man-300x300.jpg",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2023/09/Tshirt-mockup-PINK-600x600.png"
+    },
+    {
+        "name": "Courage T-Shirt",
+        "category": "T-shirts",
+        "price": 1249,
+        "original_price": 1799,
+        "url": "https://blackdolldahlia.com/product/courage-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2025/07/black-product-post-600x600.webp",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2025/07/white-product-post-600x600.webp"
+    },
+    {
+        "name": "Courage the cowardly dog crop top",
+        "category": "Crop Tops",
+        "price": 945,
+        "original_price": 1199,
+        "url": "https://blackdolldahlia.com/product/courage-the-cowardly-dog-crop-top/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2025/06/website-black-300x300.webp",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2025/06/white-website-300x300.webp"
+    },
+    {
+        "name": "Dhyana Bookmark",
+        "category": "Cards/Bookmarks",
+        "price": 250,
+        "original_price": 500,
+        "url": "https://blackdolldahlia.com/product/dhyana-bookmark/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/hanuman-bookmark-600x600.png",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/DHYANA-BOOKMARK-600x600.png"
+    },
+    {
+        "name": "Dragon Ball Z Bookmark",
+        "category": "Cards/Bookmarks",
+        "price": 210,
+        "original_price": 500,
+        "url": "https://blackdolldahlia.com/product/dragon-ball-z-bookmark/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/dbz-bookmark-600x600.jpg"
+    },
+    {
+        "name": "Dragon Ball Z Poster",
+        "category": "Anime",
+        "price": 450,
+        "original_price": 650,
+        "url": "https://blackdolldahlia.com/product/dragon-ball-z-poster/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/dbz-poster-600x600.png"
+    },
+    {
+        "name": "Escanor Seven Deadly Sins Poster",
+        "category": "Anime",
+        "price": 499,
+        "url": "https://blackdolldahlia.com/product/escanor-seven-deadly-sins-poster/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/escanor-600x600.png"
+    },
+    {
+        "name": "Faith Bookmark",
+        "category": "Cards/Bookmarks",
+        "price": 210,
+        "original_price": 500,
+        "url": "https://blackdolldahlia.com/product/faith-bookmark/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/faith-bookmark-600x600.jpg"
+    },
+    {
+        "name": "Faith Poster",
+        "category": "Art Print/Poster",
+        "price": 699,
+        "original_price": 499,
+        "url": "https://blackdolldahlia.com/product/faith-poster/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/02/faith-poster-600x600.png"
+    },
+    {
+        "name": "Faith T-Shirt",
+        "category": "Goth/Punk",
+        "price": 1199,
+        "original_price": 1599,
+        "url": "https://blackdolldahlia.com/product/faith-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/faith-tee-600x600.png",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/faith-artwork-600x600.png"
+    },
+    {
+        "name": "Forest Of October Premium Art Print",
+        "category": "Art Print/Poster",
+        "price": 1990,
+        "original_price": 999,
+        "url": "https://blackdolldahlia.com/product/forest-of-october-premium-art-print/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/01/features-art-prints-1693x2048-1-300x300.webp",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2023/01/IMG_20230110_120447-300x300.jpg"
+    },
+    {
+        "name": "Goku retro vinyl sticker",
+        "category": "Anime",
+        "price": 499,
+        "original_price": 250,
+        "url": "https://blackdolldahlia.com/product/goku-retro-vinyl-sticker/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2023/07/goku-vinyl-sticker-600x600.png"
+    },
+    {
+        "name": "Hellfire Club T-Shirt",
+        "category": "Goth/Punk",
+        "price": 999,
+        "original_price": 1500,
+        "url": "https://blackdolldahlia.com/product/hellfire-club-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/royal-blue-1-600x600.jpg",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/black-updated-hellfire-club-tee-600x600.jpg"
+    },
+    {
+        "name": "High Rab T-Shirt",
+        "category": "T-shirts",
+        "price": 649,
+        "original_price": 1000,
+        "url": "https://blackdolldahlia.com/product/high-rab-t-shirt/",
+        "image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/white-1-600x600.jpg",
+        "hover_image": "https://blackdolldahlia.com/wp-content/uploads/2022/12/black-1-600x600.jpg"
+    }
+]
